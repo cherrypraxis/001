@@ -1,0 +1,5 @@
+function hello(first name, last name){
+    console.log("hello" + "" + first_name + "" + last_name);
+}
+let thing = "world";
+hello(thing);
